@@ -1,7 +1,11 @@
-## Hi there 👋
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/>About me🌟
 
-<!--
+
 **ikramzaldivar/ikramzaldivar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img align='right' src="https://media.giphy.com/media/e9BUxDjZUk6dZeicZl/giphy.gif" width="30%"/>
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
