@@ -6,13 +6,6 @@
 <img align='right' src="https://media.giphy.com/media/e9BUxDjZUk6dZeicZl/giphy.gif" width="30%"/>
 
 
-- 🔭 I’m currently working on improving my skills
-- 🌱 I’m currently learning Python for Data Analysis 
-- 👯 I’m looking to collaborate on social projects relating to data, such as "Mapa de Feminicidios"
-- 🤔 My favorite language is SQL
-- ⚡ Fun fact: I love learning, crossfit, poetry and cliché romance movies.
-
-
 </table>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
